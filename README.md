@@ -29,7 +29,7 @@ This project demonstrates a smooth transition effect for cards coming from the b
 
 ## Usage
 
-1. Open the `index.html` file in your preferred web browser.
+1. Open the `carts.html` file in your preferred web browser.
 
 ## File Structure
 
