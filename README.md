@@ -2,15 +2,13 @@
 
 This project demonstrates a smooth transition effect for cards coming from the bottom to their position on a web page. The cards are displayed in a row layout and are responsive, adjusting their layout on different screen sizes.
 
-## Demo
 
-![Demo GIF](path-to-demo-gif.gif)
 
 ## Features
 
 - **Smooth Transition**: Cards smoothly transition from the bottom to their final position.
 - **Responsive Design**: Cards are responsive and adjust their layout based on the screen size.
-- **Modern Look**: Cards have a clean and modern design with a background color, border radius, and box shadow.
+- **Modern Look**: Cards have a clean and modern design with a background color, border radius, and box-shadow.
 
 ## Technologies Used
 
@@ -22,7 +20,7 @@ This project demonstrates a smooth transition effect for cards coming from the b
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/smooth-card-transition.git
+    git clone https://github.com/6a6ak/carts-effect.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -38,6 +36,6 @@ This project demonstrates a smooth transition effect for cards coming from the b
 ```plaintext
 smooth-card-transition/
 │
-├── index.html        # The main HTML file
+├── carts.html        # The main HTML file
 ├── style.css         # The CSS file for styling
 └── js.js             # The JavaScript file for the transition effect
